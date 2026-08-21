@@ -3,10 +3,7 @@
 <!-- Responsive Header Banner with Gradient Design -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,15,15,35,10,20&height=200&section=header&text=MADUSHANKA%20TOOLS&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
 
-<!-- Dynamic Animated Subtitle with Tool Names -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=1000&color=FFFcenter=true&vCenter=true&width=520&height=45&lines=MADUSHANKA+TOOLS;ULTIMATE+LAG+FIXER;SYSTEM+BOOSTER+V3;UI+LAG+FIXER" alt="Typing SVG" />
-</p>
+
 
 <!-- Upgraded Interactive Badges -->
 <p align="center">
