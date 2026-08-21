@@ -20,6 +20,3 @@
 
 ---
 
-## 🕹️ Madushanka Control Menu
-```text
-Engine Status: [ OFF - IDLE ]
