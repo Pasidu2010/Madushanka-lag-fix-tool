@@ -29,8 +29,7 @@ pkg install git -y
 
 ```
 ```bash
-git clone [https://github.com/Pasidu2010/Madushanka-lag-fix-tool.git](https://github.com/Pasidu2010/Madushanka-lag-fix-tool.git)
-
+git clone https://github.com/Pasidu2010/Madushanka-lag-fix-tool.git
 ```
 ```bash
 cd Madushanka-lag-fix-tool
