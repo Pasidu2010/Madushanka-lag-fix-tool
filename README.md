@@ -20,22 +20,13 @@
 
 ---
 
-## 🚀 How to Install & Run in Termux
+## ⚡ How to Install & Run in Termux
 
-Execute the following commands sequentially in your Termux terminal to clone and launch the toolkit:
+Copy and run the following commands sequentially in your Termux terminal:
 
 ```bash
-# Step 1: Update and upgrade package lists
-pkg update && pkg upgrade -y
-
-# Step 2: Install git and python (or required dependencies)
-pkg install git python -y
-
-# Step 3: Clone the repository
+pkg update && pkg upgrade -y && pkg install git -y
 git clone [https://github.com/Pasidu2010/Madushanka-lag-fix-tool.git](https://github.com/Pasidu2010/Madushanka-lag-fix-tool.git)
-
-# Step 4: Navigate into the toolkit directory
 cd Madushanka-lag-fix-tool
-
-# Step 5: Run the toolkit script (replace main.py or run.sh with your script's actual file name)
-python main.py
+chmod +x Madushanka
+./Madushanka
