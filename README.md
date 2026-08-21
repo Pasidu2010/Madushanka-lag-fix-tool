@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Suite-MADUSHANKA%20TOOLS-darkred?style=for-the-badge&logo=tools&logoColor=white" alt="Suite">
   <img src="https://img.shields.io/badge/Status-ONLINE-brightgreen?style=for-the-badge&logo=statuspage" alt="Status">
   <img src="https://img.shields.io/badge/Platform-Termux-%23000000?style=for-the-badge&logo=android&logoColor=3DDC84" alt="Platform">
-  <img src="https://img.shields.io/badge/Version-3.0.0-blue?style=for-the-badge&logo=semver" alt="Version">
+  <img src="https://img.shields.io/badge/Version-1.0.M-blue?style=for-the-badge&logo=semver" alt="Version">
 </p>
 
 </div>
@@ -53,3 +53,5 @@ chmod +x Madushanka
 ./Madushanka
 
 ```
+## Termux Downloade
+
