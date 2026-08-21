@@ -55,3 +55,4 @@ chmod +x Madushanka
 ```
 ## Termux Downloade
 
+[click to downloade](https://f-droid.org/repo/com.termux_1022.apk)
